@@ -38,14 +38,14 @@ The system is based on a javascript code that must be used as a bookmark in your
 
 ### Here are the available modes:
 
-Steemit <--> Utopian
-Steemit <--> Busy
-Busy <--> Utopian
+- Steemit <--> Utopian
+- Steemit <--> Busy
+- Busy <--> Utopian
 
 ### Modes to come:
 
-Steemit <--> Dmania
-Busy <--> Dmania
+- Steemit <--> Dmania
+- Busy <--> Dmania
 ...
 
 ## Use

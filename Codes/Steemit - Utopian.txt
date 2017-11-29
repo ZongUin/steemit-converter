@@ -1,0 +1,1 @@
+javascript:(function(){location.assign("//" + ((location.hostname == "utopian.io") ? "steemit.com" : "utopian.io") + ((location.pathname.split("/")[1].indexOf("@") == -1) ? location.pathname : ("/" + location.pathname.split("/")[1])))})();

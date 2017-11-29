@@ -1,0 +1,1 @@
+javascript:(function(){location.assign("//" + ((location.hostname == "busy.org") ? "steemit.com" : "busy.org") + ((location.pathname.split("/")[1].indexOf("@") == -1) ? location.pathname : ("/" + location.pathname.split("/")[1])))})();
