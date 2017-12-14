@@ -22,7 +22,9 @@ Le système repose sur un code javascript qui doit être utilisé en tant que bo
 
 ## Utilisation
 
-(A venir)
+Insérer chaque code dans un signet sur votre navigateur. Cliquer sur le Switcher correspondant à chaque changement.
+Lien de l' article de présentation [FR] : A venir...
+Lien de l' article de présentation [EN] : A venir...
 
 ## Bugs connus
 
