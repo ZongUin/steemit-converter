@@ -28,7 +28,7 @@ Lien de l' article de présentation [EN] : A venir...
 
 ## Bugs connus
 
-- Incompatibilité sur Firefox
+- Incompatibilité sur Vivaldi
 
 -----
 # [EN]
@@ -54,4 +54,4 @@ The system is based on a javascript code that must be used as a bookmark in your
 (Coming soon)
 ## Known bugs
 
-- Incompatibility on Firefox
+- Incompatibility on Vivaldi
