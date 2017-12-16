@@ -23,14 +23,28 @@ Le système repose sur un code javascript qui doit être utilisé en tant que bo
 ## Utilisation
 
 Insérer chaque code dans un signet sur votre navigateur. Cliquer sur le Switcher correspondant à chaque changement.
-Lien de l' article de présentation [FR] : A venir...
+Lien de l' article de présentation [FR] : https://steemit.com/utopian-io/@zonguin/switcher-entre-tout-les-sites-de-la-blockchain-grace-a-steemit-converter
+
 Lien de l' article de présentation [EN] : A venir...
+
+## Compatibilité
+
+- Chrome
+- Firefox
+- Brave
+- (non testés)
+
+### Incompatibilité
+
+- Vivaldi
 
 ## Bugs connus
 
-- Incompatibilité sur Vivaldi
+- Aucun
+
 
 -----
+
 # [EN]
 
 ## Presentation
@@ -38,20 +52,35 @@ On Steemit, it is sometimes quite annoying to have to modify each time its link 
 This tool makes it possible to do this automatically and thus to switch from one site to another.
 The system is based on a javascript code that must be used as a bookmark in your browser (see Use section)
 
-### Here are the available modes:
+Here are the available modes:
 
 - Steemit <--> Utopian
 - Steemit <--> Busy
 - Busy <--> Utopian
 
-### Modes to come:
+Modes to come:
 
 - Steemit <--> Dmania
 - Busy <--> Dmania
-...
+- ...
 
 ## Use
-(Coming soon)
+
+Insert each code into a bookmark on your browser. Click on the switch corresponding to each change.
+
+Link to introduceing post [EN]: Coming soon...
+
+## Compatibility
+
+- Chrome
+- Firefox
+- Brave
+- (not tested)
+
+### Incompatibility
+
+- Vivaldi
+
 ## Known bugs
 
-- Incompatibility on Vivaldi
+- None
